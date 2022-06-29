@@ -1,0 +1,17 @@
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\bin\Debug\net6.0-windows\MultiThreadCopyAndPaste.exe
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\bin\Debug\net6.0-windows\MultiThreadCopyAndPaste.deps.json
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\bin\Debug\net6.0-windows\MultiThreadCopyAndPaste.runtimeconfig.json
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\bin\Debug\net6.0-windows\MultiThreadCopyAndPaste.dll
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\bin\Debug\net6.0-windows\ref\MultiThreadCopyAndPaste.dll
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\bin\Debug\net6.0-windows\MultiThreadCopyAndPaste.pdb
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\obj\Debug\net6.0-windows\MultiThreadCopyAndPaste.csproj.AssemblyReference.cache
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\obj\Debug\net6.0-windows\MultiThreadCopyAndPaste.Form1.resources
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\obj\Debug\net6.0-windows\MultiThreadCopyAndPaste.csproj.GenerateResource.cache
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\obj\Debug\net6.0-windows\MultiThreadCopyAndPaste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\obj\Debug\net6.0-windows\MultiThreadCopyAndPaste.AssemblyInfoInputs.cache
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\obj\Debug\net6.0-windows\MultiThreadCopyAndPaste.AssemblyInfo.cs
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\obj\Debug\net6.0-windows\MultiThreadCopyAndPaste.csproj.CoreCompileInputs.cache
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\obj\Debug\net6.0-windows\MultiThreadCopyAndPaste.dll
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\obj\Debug\net6.0-windows\ref\MultiThreadCopyAndPaste.dll
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\obj\Debug\net6.0-windows\MultiThreadCopyAndPaste.pdb
+D:\Project\C#\MultiThreadCopyAndPaste\MultiThreadCopyAndPaste\obj\Debug\net6.0-windows\MultiThreadCopyAndPaste.genruntimeconfig.cache

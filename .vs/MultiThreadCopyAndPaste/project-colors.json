@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34ccac50-4720-401a-9fbf-65cb3bd5b184": {
+      "ProjectGuid": "34ccac50-4720-401a-9fbf-65cb3bd5b184",
+      "DisplayName": "MultiThreadCopyAndPaste",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
